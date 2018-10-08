@@ -42,6 +42,7 @@ namespace LFE
             this.btnExchange.TabIndex = 0;
             this.btnExchange.Text = "Exchange";
             this.btnExchange.UseVisualStyleBackColor = true;
+            this.btnExchange.Click += new EventHandler(btnExchangeClick);
             // 
             // txtPw
             // 
@@ -64,6 +65,11 @@ namespace LFE
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void btnExchangeClick(object sender, System.EventArgs e)
+        {
+            Program.btnExchange(this.txtPw.Text);
         }
 
         #endregion

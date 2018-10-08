@@ -8,3 +8,13 @@ C:\Users\ziegl\source\repos\LFE\LFE\obj\Debug\LFE.csproj.GenerateResource.cache
 C:\Users\ziegl\source\repos\LFE\LFE\obj\Debug\LFE.csproj.CoreCompileInputs.cache
 C:\Users\ziegl\source\repos\LFE\LFE\obj\Debug\LFE.exe
 C:\Users\ziegl\source\repos\LFE\LFE\obj\Debug\LFE.pdb
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\bin\Debug\LFE.exe.config
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\bin\Debug\LFE.exe
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\bin\Debug\LFE.pdb
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.csprojAssemblyReference.cache
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.LifeFileExchangeForm.resources
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.Properties.Resources.resources
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.csproj.GenerateResource.cache
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.csproj.CoreCompileInputs.cache
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.exe
+C:\Users\ziegl\Documents\GitHub\LiveFileExchange\LFE\obj\Debug\LFE.pdb

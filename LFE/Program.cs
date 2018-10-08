@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace LFE
 {
-    static class Program
+    public class Program
     {
         /// <summary>
         /// Der Haupteinstiegspunkt für die Anwendung.
@@ -17,6 +17,14 @@ namespace LFE
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LifeFileExchangeForm());
+        }
+
+        public static void btnExchange(string pW)
+        {
+            if(pW == "Passwort")
+            {
+                
+            }
         }
         
     }
